@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // ===== CONFIGURATION - CUSTOMIZE THESE! =====
     // CUSTOMIZE: Set the birthday date (format: 'Month Day, Year HH:MM:SS')
-  const birthdayDate = new Date(Date.now() - 60000);
+const birthdayDate = new Date('May 7, 2026 00:00:00');
 
     // CUSTOMIZE: Change this greeting message
     const greetingText = "Hey Navya! You're one of the most amazing people I've ever known! 💖";
